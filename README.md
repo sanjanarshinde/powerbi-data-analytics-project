@@ -13,17 +13,24 @@ Nine related tables: orders, order items, order payments, order reviews, product
 - Detail pages: a full-screen page for each question
 
 ## Business Questions Answered
-| # | Question | Visual |
-| 1 | Top 10 product categories by total sales | Bar chart |
 
-| 2 | Delayed orders in each category | Bar chart |
+Questions & Visuals used :-
 
-| 3 | Monthly delayed vs on-time orders (with drill-through) | Clustered column chart |
-| 4 | Most used payment methods | Pie chart |
-| 5 | Top 10 and bottom 10 rated products (min. 5 reviews) | Bar charts |
-| 6 | State-wise sales performance | Column chart |
-| 7 | Quarterly seasonal sales patterns | Line chart |
-| 8 | Total revenue and yearly trend | Line chart + KPI card |
+| 1 | Top 10 product categories by total sales --->>> Bar chart 
+
+| 2 | Delayed orders in each category --->>> Bar chart 
+
+| 3 | Monthly delayed vs on-time orders (with drill-through) --->>> Clustered column chart 
+
+| 4 | Most used payment methods --->>> Pie chart 
+
+| 5 | Top 10 and bottom 10 rated products (min. 5 reviews) --->>> Bar charts 
+
+| 6 | State-wise sales performance --->>> Column chart 
+
+| 7 | Quarterly seasonal sales patterns --->>> Line chart 
+
+| 8 | Total revenue and yearly trend --->>> Line chart + KPI card 
 
 ## Key Findings
 - Total sales: $13.22M. Total revenue (sales + freight): $15.42M.
