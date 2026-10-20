@@ -15,7 +15,9 @@ Nine related tables: orders, order items, order payments, order reviews, product
 ## Business Questions Answered
 | # | Question | Visual |
 | 1 | Top 10 product categories by total sales | Bar chart |
+
 | 2 | Delayed orders in each category | Bar chart |
+
 | 3 | Monthly delayed vs on-time orders (with drill-through) | Clustered column chart |
 | 4 | Most used payment methods | Pie chart |
 | 5 | Top 10 and bottom 10 rated products (min. 5 reviews) | Bar charts |
